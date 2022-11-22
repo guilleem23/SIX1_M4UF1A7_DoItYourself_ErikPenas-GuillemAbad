@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+body{
+    text-align: center;
+    margin: 0px;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.img{
+    text-align: center;
+    background-color: gray 2px;
+    padding: 2%;
+    border-radius: 2px;
+}
+.historia{
+    border-radius: 5px;
+    padding: 2%;
+    border: solid crimson 2px;
+}
+.pepsiman{
+    border-radius: 5px;
+    border: solid crimson 2px;
+    padding: 3%;
+    text-align: center;
+}
+h1{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+h2{
+    border: solid blue ;
+    padding: 3%;
+    border-radius: 5px;
+}
+h2[class="history"]{
+    background-color: aqua;
+}
+.log{
+    border: solid crimson;
+    padding: 3%;
+    border-radius: 7px;
+}
+.todo{
+    border: solid black 10px;
+    border-radius: 10px;
+    padding: 5%;
+}
